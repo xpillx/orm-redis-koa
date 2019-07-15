@@ -1,0 +1,16 @@
+{
+  "agent_log_level": "info",
+  "app_name": [
+    "test"
+  ],
+  "licenseKey": "b9fee020dbb386400799a82e348e3f42",
+  "host": "redirect.networkbench.com",
+  "port": 443,
+  "ssl": true,
+  "proxy": "",
+  "proxy_host": "",
+  "proxy_port": "",
+  "proxy_user": "",
+  "proxy_pass": "",
+  "audit_mode": false
+}

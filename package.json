@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "ioredis": "^4.11.1",
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "mysql2": "^1.6.5",
+    "nunjucks": "^3.2.0",
+    "sequelize": "^5.9.4",
+    "tingyun": "^1.6.0"
+  }
+}
